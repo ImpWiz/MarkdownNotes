@@ -1,0 +1,11 @@
+
+https://notepad-plus-plus.org/download/v7.6.6.html
+
+I need to explore how to use this... 
+
+Integrity & Authenticity validation
+
+* GPG Notepad++ Public key: Use it for the verification of GPG Signature.
+* SHA-256 digests of binary packages for checking the integrity of your Notepad++ download. GPG Signature
+
+Download Notepad++ source code of current version and/or check sha-256 digests for binary packages on GitHub
