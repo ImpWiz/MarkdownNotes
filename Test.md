@@ -11,7 +11,7 @@ I will be using this site for information on how to work with GitHub.
 - This should be Red
 + This should be Green
 ```
-# Create an Table
+# [Create an Table](https://help.github.com/en/articles/organizing-information-with-tables)
 
 ``` code
 | Left-aligned | Center-aligned | Right-aligned |
