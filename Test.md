@@ -1,9 +1,8 @@
----
-Array: abc
-Index: "def"
----
-Your Text
-Use the left arrow to go back ! 
+| Left-aligned | Center-Aligned | Right-aligned | 
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+
 
 # My GitHub Learning Repository for GitHub
 
